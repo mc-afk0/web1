@@ -1,0 +1,230 @@
+.big img{
+    width: 260px;
+    height: 32px;
+    margin-left: 157px;
+    margin-top: 20px;
+    /* border: 1PX solid black; */
+}
+.big{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    margin-top: 25px;
+}
+.nav a{
+    font-family: sans-serif;
+    font-size: inherit;
+    text-decoration: none !important;
+    color: rgb(0, 173, 136);
+}
+.logo img{
+    margin-left: 48%;
+    width: 40px ;
+    height: 40px;
+    margin-top: 70px;
+}
+.logo p{
+    text-align: center;
+    font-size: inherit;
+    font-family: sans-serif;
+    
+}
+.our{
+    display: flex;
+    justify-content:center;
+    gap: 5px;
+}
+.flexing{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.bord{
+    /* border: 1px solid  rgb(0, 173, 136);
+    border-radius: 15px;
+    background-color:  rgb(0, 173, 136) ;
+    text-align: center;
+    font-family: sans-serif;
+     font-size: inherit ;
+     margin-top: 40px; */
+    /* border-color: rgb(0, 173, 136) ;
+    border-radius: 15px;
+    background-color:  rgb(0, 173, 136) ;
+    text-align: center;
+    font-family: sans-serif;
+     font-size: inherit ;
+     margin-top: 50px;
+     */
+     border: 1px solid rgb(0, 173, 136);
+     border-radius: 15px;
+     background-color:rgb(0, 173, 136)  ;
+     text-align: center;
+     font-family: sans-serif;
+      font-size: inherit ;
+      margin-top: 50px;
+     
+}
+.bord1{
+    border: 1px solid  rgb(0, 102, 190);
+    border-radius: 15px;
+    background-color:  rgb(0, 102, 190) ;
+    text-align: center;
+    font-family: sans-serif;
+     font-size: inherit ;
+     margin-top: 50px;
+    
+}
+.bord2{
+    border: 1px solid  rgb(16, 15, 26);
+    border-radius: 15px;
+    background-color:  rgb(16, 15, 26) ;
+    text-align: center;
+    font-family: sans-serif;
+     font-size: inherit ;
+     margin-top: 59px;
+    
+}
+.logos{
+    border: 0px solid black;
+    margin-top: 20px;
+    /* margin-right: 60%; */
+    
+
+
+}
+.logos p{
+    font-size: inherit;
+    font-family: sans-serif;
+    color:rgb(0, 173, 136) ;
+
+    
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.page2{
+    background-color: rgba(0, 173, 133, 0.133);
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+.page2 h2{
+    padding-left:200px ;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+    color: rgb(0, 173, 136) ;
+    padding-top: 70px;
+    /* border: 1px solid black; */
+    width: 500px;
+
+
+}
+.photo {
+    margin-left: 200px;
+    margin-top: 80px;
+    border: 1px solid black;
+    width: 500px;
+}
+.page2 p{
+    color: gray;
+     border: 0px solid black;
+     
+     
+
+
+}
+
+
+.page2 h3{
+    
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    color: rgb(0, 173, 136) ;
+
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.block1{
+    border: 1px solid white;
+    background-color: white;
+}
+.cards img{
+    justify-content: center;
+
+}
+.block1{
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+}
+.block2{
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+}
+.block3{
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+}
+.block4{
+    text-align: center;
+     border: 1px solid white;
+    background-color: white;
+}
+.card-orio{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+}
+.card-vertico{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.but{
+    display: flex;
+    gap: 100px;
+}
+.shadow{
+    background-color: #f0f0f0; 
+  transition: box-shadow 0.3s ease; 
+ 
+    
+}
+.text{
+    text-align: center;
+}
+.text h2{
+    font-size: 1.4rem;
+    font-family: sans-serif;
+    color: rgb(0, 173, 136);
+    font-weight: inherit;
+    padding-top: 200px;
+    
+}
+.shadow :hover{
+    box-shadow: 0 10px 20px rgba(54, 54, 54, 0.5);
+}
+
+
+
+
+
